@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Settlement Reconciliation",
+  "description": "A comprehensive month-over-month reconciliation application that cross-checks Amazon settlement exports, Sale Orders, and bank statements, generating detailed visual dashboards and professional multi-tab Excel workbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
